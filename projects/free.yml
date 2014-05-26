@@ -482,6 +482,8 @@ categories:
           url: https://github.com/47deg/android-swipelistview
         - name: TreeViewList
           url: https://code.google.com/p/tree-view-list-android/
+        - name: Sliding ListView with map (Foursquare-like)
+          url: https://github.com/dlukashev/AndroidSlidingUpPanel-foursquare-map-demo
 
     - name: List View Adapters
       projects:
